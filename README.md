@@ -1,7 +1,7 @@
 ![Git Jenifer](https://user-images.githubusercontent.com/107861008/217264147-5ed4d0d7-354e-4cca-aa05-70146f15a189.png)
 
 
-- 👋 Hi, I’m @JeniferAnduca
+- 👋 Hi
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Quality Assurance
 - 💞️ I’m looking to collaborate and learn about QA and Front-end.
