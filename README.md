@@ -1,4 +1,5 @@
-![Alt text](relative/path/to/Git.Jenifer?raw=true "Title")
+![Git Jenifer](https://user-images.githubusercontent.com/107861008/217264147-5ed4d0d7-354e-4cca-aa05-70146f15a189.png)
+
 
 - 👋 Hi, I’m @JeniferAnduca
 - 👀 I’m interested in technology
