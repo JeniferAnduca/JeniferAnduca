@@ -1,3 +1,5 @@
+![Alt text](relative/path/to/Git.Jenifer?raw=true "Title")
+
 - 👋 Hi, I’m @JeniferAnduca
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Quality Assurance
